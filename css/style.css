@@ -1,0 +1,43 @@
+.nav-header {
+	height:10vh;
+	background-color: #001a21;
+}
+
+.header-logo {
+	height:10vh;
+	vertical-align: middle;
+	margin-left:5vw;
+}
+
+.main-body {
+	height:85vh;
+	background-color: #00AADE;
+	color:white;
+	text-align: center;
+}
+
+.glyphicon-console {
+	color: orange;
+}
+
+.uc-div {
+	vertical-align: middle;
+	margin-top: 25vh;
+
+}
+
+.uc-header {
+	font-size:48px;
+	font-weight:600;
+}
+
+.uc-body {
+	font-size:14px;
+}
+
+.footer{
+	height:5vh;
+	background-color: #001a21;
+	color:white;
+	text-align: center;
+}
