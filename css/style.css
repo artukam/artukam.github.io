@@ -10,7 +10,7 @@
 }
 
 .main-body {
-	height:85vh;
+	height:87vh;
 	background-color: #00AADE;
 	color:white;
 	text-align: center;
@@ -36,7 +36,8 @@
 }
 
 .footer{
-	height:5vh;
+	height:3vh;
+	font-size:10px;
 	background-color: #001a21;
 	color:white;
 	text-align: center;
